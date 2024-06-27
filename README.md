@@ -25,7 +25,3 @@ OwlTrek is committed to promoting wildlife conservation, education, and responsi
 
 **Join Us:**
 Embark on a journey of discovery and conservation at OwlTrek. Whether you're planning a family outing, a school field trip, or simply exploring from home, let OwlTrek be your companion in discovering the wonders of Hyderabad Zoo.
-
----
-
-This description highlights the website's purpose, features, and its role in promoting wildlife conservation and education.
